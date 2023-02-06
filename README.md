@@ -6,7 +6,7 @@
    </a>
 </div>
                                                                      
-<h1 align="center">:file_cabinet: ImHere</h1>  
+<h1 align="center">:file_cabinet: MySkills</h1>  
 
 <p align="center">
   <img height="600" src="src/assets/to-readme/myskills.gif"/>
