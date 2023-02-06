@@ -15,7 +15,7 @@
 
 
 ## :memo: Projeto
-Nesse projeto foi desenvolvido um aplicativo para adicionar e remover skills, nele utilizamos alguns hooks do react, como useState e o useEffect.
+Nesse projeto foi desenvolvido um aplicativo para adicionar e remover skills. Foi desenvolvido em TypeScripe e também utilizamos alguns hooks do react, como useState e o useEffect.
 
 
 ## :wrench: Tecnologias utilizadas
