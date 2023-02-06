@@ -15,7 +15,7 @@
 
 
 ## :memo: Projeto
-Projeto para adicionar e remover suas Skills.
+Nesse projeto foi desenvolvido um aplicativo para adicionar e remover skills, nele utilizamos alguns hooks do react, como useState e o useEffect.
 
 
 ## :wrench: Tecnologias utilizadas
